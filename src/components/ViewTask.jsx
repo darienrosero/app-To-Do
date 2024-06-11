@@ -12,7 +12,7 @@ import iconIncomplet from '../assets/close_ring_duotone.svg'
 
 import logoBooks from '../assets/icons8-books-94.png'
 
-import addTask from '../assets/icons8-add-24.png'
+import addTask from '../assets/icons8-add2-50.png'
 
 const ViewTask = () => {
     return (
