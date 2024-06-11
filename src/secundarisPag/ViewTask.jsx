@@ -18,7 +18,7 @@ const ViewTask = () => {
     return (
         <>
 
-            <main className="w-[380px] h-[850px] my-10 right-0 left-0 mx-auto font-Outfit   ">
+            <main className="w-[380px] h-[850px] my-10 right-0 left-0 mx-auto font-Outfit ">
                 <header>
                     <div className='flex gap-4'>
                         <img src={logo} alt="logo" />
